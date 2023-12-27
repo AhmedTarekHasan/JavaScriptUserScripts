@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://javascript.plainenglish.io/how-to-customize-webpages-ui-behavior-using-javascript-userscripts-7b6a090e0135?sk=85a138669d2b17e070f66dd21fb71ecf" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/customize-webpage-ui-behavior-with-javascript-userscripts" />
 
 # Customize Webpage UI/Behavior with JavaScript UserScripts
 ### Even if you don’t own the Webpage, you can still attach your JavaScript UserScripts.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/875/1*Rle5hnTfETl2mXYy_RmvSw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_cb30dc25ac884109ba2aefe55bcdcba7~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://javascript.plainenglish.io/how-to-customize-webpages-ui-behavior-using-javascript-userscripts-7b6a090e0135?sk=85a138669d2b17e070f66dd21fb71ecf
+[Article]: https://www.developmentsimplyput.com/post/customize-webpage-ui-behavior-with-javascript-userscripts
